@@ -20,6 +20,7 @@
                         <subviews>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Q9x-vb-tbe" customClass="LCInputDatePicker">
                                 <rect key="frame" x="60" y="120" width="480" height="30"/>
+                                <color key="backgroundColor" red="0.034412416840000001" green="0.47450980390000003" blue="0.19785866790000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="ty9-1O-vDw"/>
                                 </constraints>
